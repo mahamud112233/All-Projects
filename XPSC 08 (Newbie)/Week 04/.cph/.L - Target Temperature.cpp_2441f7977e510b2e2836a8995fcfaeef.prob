@@ -1,0 +1,1 @@
+{"name":"Local: L - Target Temperature","url":"e:\\XPSC 08\\Week 04\\L - Target Temperature.cpp","tests":[{"id":1777650849811,"input":"3\n2\n1 3\n3\n4 4 4\n4\n5 6 6 5\n","output":"Yes\nYes\nNo\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\XPSC 08\\Week 04\\L - Target Temperature.cpp","group":"local","local":true}

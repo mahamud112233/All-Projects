@@ -1,0 +1,1 @@
+{"name":"Local: Array_Difference","url":"e:\\XPSC 08 (Super)\\Week 04\\Array_Difference.cpp","tests":[{"id":1786701626051,"input":"5 3\n2 5 1 8 14\n1 4 2\n2 5 6\n1 5 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\XPSC 08 (Super)\\Week 04\\Array_Difference.cpp","group":"local","local":true}

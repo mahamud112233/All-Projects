@@ -1,0 +1,1 @@
+{"name":"Local: Employ","url":"e:\\XPSC 08 (Super)\\Week 04\\Employ.cpp","tests":[{"id":1787114724966,"input":"3\na 6\nb 7\nc 8\n","output":""},{"id":1787474125941,"input":"5\n1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\XPSC 08 (Super)\\Week 04\\Employ.cpp","group":"local","local":true}

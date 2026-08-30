@@ -1,0 +1,1 @@
+{"name":"Local: L - Palindrome Reorder","url":"e:\\XPSC 08\\Week 09\\L - Palindrome Reorder.cpp","tests":[{"id":1782821165002,"input":"AAAACACBA\n","output":"AACABACAA\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\XPSC 08\\Week 09\\L - Palindrome Reorder.cpp","group":"local","local":true}

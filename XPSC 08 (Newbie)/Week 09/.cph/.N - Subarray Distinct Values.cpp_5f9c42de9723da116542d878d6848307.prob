@@ -1,0 +1,1 @@
+{"name":"Local: N - Subarray Distinct Values","url":"e:\\XPSC 08\\Week 09\\N - Subarray Distinct Values.cpp","tests":[{"id":1783173517576,"input":"5 2\n1 2 3 1 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\XPSC 08\\Week 09\\N - Subarray Distinct Values.cpp","group":"local","local":true}

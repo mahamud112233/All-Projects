@@ -1,0 +1,1 @@
+{"name":"Local: M - Subarray Divisibility","url":"e:\\XPSC 08\\Week 09\\M - Subarray Divisibility.cpp","tests":[{"id":1782822534973,"input":"5\n3 1 2 7 4\n","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\XPSC 08\\Week 09\\M - Subarray Divisibility.cpp","group":"local","local":true}

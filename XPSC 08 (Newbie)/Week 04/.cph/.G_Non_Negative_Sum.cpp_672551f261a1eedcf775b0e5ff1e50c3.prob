@@ -1,0 +1,1 @@
+{"name":"Local: G_Non_Negative_Sum","url":"e:\\XPSC 08\\Week 04\\G_Non_Negative_Sum.cpp","tests":[{"id":1777383914944,"input":"4\n5\n2 4 -2 -5 -3\n3\n1 3 5\n2\n-1 -2\n2\n1 -1\n","output":"4\n3\n0\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\XPSC 08\\Week 04\\G_Non_Negative_Sum.cpp","group":"local","local":true}

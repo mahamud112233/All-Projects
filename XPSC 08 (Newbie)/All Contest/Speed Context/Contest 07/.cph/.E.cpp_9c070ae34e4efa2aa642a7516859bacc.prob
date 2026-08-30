@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"e:\\XPSC 08\\All Contest\\Speed Context\\Contest 07\\E.cpp","tests":[{"id":1781020737537,"input":"3\n2 2\naa\naA\n3 3\naba\nbab\naba\n4 4\naabb\naabb\nbbaa\nbbaa","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\XPSC 08\\All Contest\\Speed Context\\Contest 07\\E.cpp","group":"local","local":true}

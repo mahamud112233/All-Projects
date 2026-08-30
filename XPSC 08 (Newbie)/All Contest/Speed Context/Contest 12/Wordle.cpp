@@ -1,0 +1,23 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    int ts;
+    cin >> ts;
+    while(ts--){
+        string s, t;
+        cin >> s >> t;
+        for(int i = 0; i < 5; i++){
+            if(s[i] == t[i]){
+                cout << 'G';
+            }
+            else{
+                cout << 'B';
+            }
+        }
+        cout << '\n';
+    }
+    return 0;
+}

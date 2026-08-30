@@ -1,0 +1,1 @@
+{"name":"Local: ex","url":"e:\\XPSC 08\\Week 02\\ex.cpp","tests":[{"id":1776132567918,"input":"5\n4\n3 1 4 3\n5\n1 1 1 1 1\n1\n1\n6\n6 5 4 3 2 1\n7\n1 2 1 7 1 2 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\XPSC 08\\Week 02\\ex.cpp","group":"local","local":true}

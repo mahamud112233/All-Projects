@@ -1,0 +1,1 @@
+{"name":"Local: F - Exponentiation","url":"e:\\XPSC 08\\Week 08\\F - Exponentiation.cpp","tests":[{"id":1781886913853,"input":"3\n3 4\n2 8\n123 123\n","output":"81\n256\n921450052\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\XPSC 08\\Week 08\\F - Exponentiation.cpp","group":"local","local":true}

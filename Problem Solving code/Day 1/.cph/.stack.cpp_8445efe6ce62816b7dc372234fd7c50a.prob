@@ -1,0 +1,1 @@
+{"name":"Local: stack","url":"e:\\Problem Solving code\\Day 1\\stack.cpp","tests":[{"id":1768400469588,"input":"()","output":"true"},{"id":1768400669377,"input":"(]","output":"false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Problem Solving code\\Day 1\\stack.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"e:\\XPSC 08\\All Contest\\Speed Context\\Context 01\\F.cpp","tests":[{"id":1777392737231,"input":"3\n2\n5 10\n3\n1 3 2\n5\n100 98 97 99 97\n","output":"15\n4\n195"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\XPSC 08\\All Contest\\Speed Context\\Context 01\\F.cpp","group":"local","local":true}

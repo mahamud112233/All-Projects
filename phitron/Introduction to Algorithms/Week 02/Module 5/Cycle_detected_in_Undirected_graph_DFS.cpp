@@ -1,0 +1,47 @@
+#include<bits/stdc++.h>
+using namespace std;
+vector<int> adj_l[102];
+bool vis[102];
+int parent[102];
+bool cycle;
+void dfs(int sr)
+{
+    vis[sr]=true;
+    for(int child:adj_l[sr])
+    {
+        if(vis[child] && parent[sr]!=child)
+        {
+            cycle=true;
+        }
+        if(!vis[child])
+        {
+            parent[child]=sr;
+            dfs(child);
+        }
+    }
+}
+int main ()
+{
+    int n,e;
+    cin >> n >> e;
+    while(e--)
+    {
+        int a,b;
+        cin >> a >> b;
+        adj_l[a].push_back(b);
+        adj_l[b].push_back(a);
+    }
+    memset(vis,false,sizeof(vis));
+    memset(parent,-1,sizeof(parent));
+    for(int i=1;i<=n;i++)
+    {
+        if(!vis[i])
+        {
+            cycle=false;
+            dfs(i);
+            if(cycle) cout << "Cycle" << endl;
+            else cout << "No cycle" << endl;
+        }
+    }
+    return 0;
+}
